@@ -1,5 +1,8 @@
 # formajax
 formajax is,  forms send with convert to ajax. 
+
+** I know it's a lot of spaghetti code but I needed to type fast 😅
+
 # usage 
 just add bootstrap packages
 
